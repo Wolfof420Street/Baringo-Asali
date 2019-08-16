@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Baringo Asali</string>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Baringo Asali!</string>
+    <string name="slide_1_desc">The easiest way to buy and sell honey In Baringo!</string>
+
+    <string name="slide_2_title">Register As A Seller</string>
+    <string name="slide_2_desc">Show case your products and increase your market!</string>
+
+    <string name="slide_3_title">Sign Up as A buyer</string>
+    <string name="slide_3_desc">Buy honey products and rate your seller!</string>
+
+    <string name="slide_4_title">Register as a corporate Seller</string>
+    <string name="slide_4_desc">Get to buy large scale amounts of honey from a wide range of sellers!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
 </resources>
