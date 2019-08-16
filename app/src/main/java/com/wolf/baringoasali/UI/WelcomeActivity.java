@@ -1,4 +1,4 @@
-package com.wolf.baringoasali;
+package com.wolf.baringoasali.UI;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.PagerAdapter;
@@ -18,6 +18,10 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.wolf.baringoasali.Activities.MainActivity;
+import com.wolf.baringoasali.PrefManager;
+import com.wolf.baringoasali.R;
 
 public class WelcomeActivity extends AppCompatActivity {
 
